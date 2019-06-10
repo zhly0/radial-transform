@@ -1,4 +1,3 @@
-from skimage import data
 from skimage import io
 import numpy as np
 import math
